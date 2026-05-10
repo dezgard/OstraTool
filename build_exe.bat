@@ -2,7 +2,7 @@
 setlocal
 cd /d "%~dp0"
 
-echo Building Ostranauts Save Part Viewer...
+echo Building Ostranauts Save Part Viewer v1.0...
 echo.
 
 py -m pip install --upgrade pip
