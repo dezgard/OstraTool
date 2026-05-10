@@ -1,5 +1,7 @@
 Ostranauts Save Part Viewer v1.0
 
+Latest update: v1.0 source and build files refreshed on main.
+
 What it does:
 - Reads Ostranauts save archives or extracted save folders.
 - Finds the player/ship data.
