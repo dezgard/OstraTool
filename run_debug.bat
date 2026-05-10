@@ -1,5 +1,5 @@
 @echo off
-title Ostranauts Save Part Viewer Debug
+title Ostranauts Save Part Viewer v1.0 Debug
 echo Starting OstranautsSavePartViewer.py with console output...
 echo.
 python OstranautsSavePartViewer.py
