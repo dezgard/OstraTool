@@ -1,6 +1,7 @@
 @echo off
-title Ostranauts Save Part Viewer Debug
+title OstraTool Debug - Dezgard
 echo Starting OstranautsSavePartViewer.py with console output...
+echo OstraTool by Dezgard
 echo.
 python OstranautsSavePartViewer.py
 echo.
