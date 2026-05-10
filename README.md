@@ -1,6 +1,6 @@
 # OstraTool
 
-**OstraTool** is a Windows-friendly Ostranauts save inspection utility by **Dezgard**.
+**OstraTool** is a Windows-friendly Ostranauts save inspection utility.
 
 It reads an Ostranauts save, finds the player's ship data, lists installed parts and structure, previews component images where possible, and draws a small blueprint from save-position data.
 
@@ -85,7 +85,3 @@ run_debug.bat                           Console debug runner
 README.md                               GitHub project readme
 README_OstranautsSavePartViewer.txt     Short build/readme notes
 ```
-
-## Signature
-
-Built for Dezgard's Ostranauts save-inspection workflow.
