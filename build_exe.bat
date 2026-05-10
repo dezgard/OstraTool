@@ -2,8 +2,11 @@
 setlocal
 cd /d "%~dp0"
 
+echo Building OstraTool / Ostranauts Save Part Viewer by Dezgard...
+echo.
+
 py -m pip install --upgrade pip
-py -m pip install pyinstaller rarfile
+py -m pip install pyinstaller rarfile pillow
 py -m PyInstaller --onefile --windowed --name OstranautsSavePartViewer OstranautsSavePartViewer.py
 
 echo.
