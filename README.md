@@ -8,6 +8,8 @@ It reads an Ostranauts save, finds the player's ship data, lists installed parts
 
 `OstranautsSavePartViewer.py`
 
+Latest update: v1.0 source and build files refreshed on `main`.
+
 ## What it does
 
 - Select an Ostranauts save file or extracted save folder.
