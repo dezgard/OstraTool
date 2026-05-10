@@ -1,5 +1,4 @@
 Ostranauts Save Part Viewer v1.0
-OstraTool by Dezgard
 
 What it does:
 - Reads Ostranauts save archives or extracted save folders.
@@ -28,6 +27,3 @@ Debug:
 Notes:
 - Some images are packed in Unity assets/sprite atlases and cannot be shown as loose files.
 - Ship selector exists because docked saves may point at a station/current scene instead of the player's ship.
-
-Signature:
-Built for Dezgard's Ostranauts save-inspection workflow.
